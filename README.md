@@ -11,7 +11,7 @@
 &ensp;<a href="https://dev.to/roy_animesh"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 &ensp;<a href="https://medium.com/@royanimesh2211"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
 &ensp;<a href="https://github.com/animeshroydev"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a>
-&ensp;<a href="https://www.kooapp.com/profile/animesh_roy"><img src="https://miro.medium.com/max/720/1*KNL--ynCQdJ0Bv6za71ZOw.png" title="Koo" alt="Koo" width="30"/></a>
+&ensp;<a href="https://www.kooapp.com/profile/animesh_roy"><img src="https://miro.medium.com/max/4168/1*AAiw1Nnlpjt1iLvOm_RzXg.png" title="Koo" alt="Koo" width="30"/></a>
    
 </p>
 </div>
