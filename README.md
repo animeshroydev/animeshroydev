@@ -6,7 +6,7 @@
 &ensp;<a href="https://www.twitch.tv/roy_animesh"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a> 
 &ensp;<a href="https://www.youtube.com/c/AndroidConcepts"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 &ensp;<a href="https://www.linkedin.com/in/animeshroydev"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-&ensp;<a href="https://www.instagram.com/droid.coder/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
+&ensp;<a href="https://www.instagram.com/droid.coder/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" title="Instagram" alt="Instagram Account" width="30"/></a> 
 &ensp;<a href="https://www.showwcase.com/roy_animesh"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase Account" width="30"/></a> 
 &ensp;<a href="https://dev.to/roy_animesh"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 &ensp;<a href="https://medium.com/@royanimesh2211"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
