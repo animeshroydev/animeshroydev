@@ -22,7 +22,7 @@
 
 <h3>👨‍💻 &ensp;All of my favorite projects are available at <a href="https://animeshroydev.github.io">animeshroydev.github.io</a>.</h3>
 
-<h3>📝 &ensp;I write articles on <a href="https://medium.com/@droiddev5911">medium.com/@royanimesh2211</a>.</h3>
+<h3>📝 &ensp;I write articles on <a href="https://medium.com/@droiddev5911">medium.com/@droiddev5911</a>.</h3>
 
 <h3>💬 &ensp;Feel free to reach out to me if you want to ask something regarding my articles.</h3>
 
