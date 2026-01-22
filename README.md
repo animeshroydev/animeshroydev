@@ -107,11 +107,6 @@
   <img src="https://user-images.githubusercontent.com/50510726/107741611-84944000-6d33-11eb-8adc-ff15ebcb1a0e.png"
   alt="python" width="40" height="40" />
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshroydev&theme=radical"
-alt="animeshroydev" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshroydev&count_private=true&theme=radical"
-alt="animeshroydev" />
-![](https://komarev.com/ghpvc/?username=animeshroydev)
 <br>
 <p align="center">
   <h3 align="center">
