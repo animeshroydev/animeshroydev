@@ -101,7 +101,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
   alt="git" width="40" height="40" />
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"
+  <img src="https://thumbs2.imgbox.com/0b/0b/JGsWaM56_t.png"
   alt="kotlin" width="40" height="40" />
   &nbsp;
   <img src="https://user-images.githubusercontent.com/50510726/107741611-84944000-6d33-11eb-8adc-ff15ebcb1a0e.png"
