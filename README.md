@@ -74,31 +74,31 @@
   workout 💪
 </h3>
 
-<p align="left">
+<div align="left">
   <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
-  alt="androidstudio" width="50" height="50" />
-  &nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" alt="android"
-  width="50" height="50" />
-  &nbsp;
+  alt="androidstudio" width="50" height="50" style="margin-right: 10px;" />
+
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png"
+  alt="android" width="50" height="50" style="margin-right: 10px;" />
+
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-  alt="flutter" width="40" height="40" />
-  &nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java"
-  width="50" height="50" />
-  &nbsp;
+  alt="flutter" width="40" height="40" style="margin-right: 10px;" />
+
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
+  alt="java" width="50" height="50" style="margin-right: 10px;" />
+
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-  alt="firebase" width="40" height="40" />
-  &nbsp;
+  alt="firebase" width="40" height="40" style="margin-right: 10px;" />
+
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-  alt="git" width="40" height="40" />
-  &nbsp;
+  alt="git" width="40" height="40" style="margin-right: 10px;" />
+
   <img src="https://thumbs2.imgbox.com/0b/0b/JGsWaM56_t.png"
-  alt="kotlin" width="40" height="40" />
-  &nbsp;
+  alt="kotlin" width="40" height="40" style="margin-right: 10px;" />
+
   <img src="https://user-images.githubusercontent.com/50510726/107741611-84944000-6d33-11eb-8adc-ff15ebcb1a0e.png"
   alt="python" width="40" height="40" />
-</p>
+</div>
 
 <br>
 
