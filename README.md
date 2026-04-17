@@ -27,10 +27,6 @@
     <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png"
     title="Showwcase" alt="Showwcase Account" width="30" style="margin: 0 6px;" />
   </a>
-  <a href="https://dev.to/roy_animesh">
-    <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png"
-    title="DEV" alt="DEVto Blog" width="30" style="margin: 0 6px;" />
-  </a>
   <a href="https://medium.com/@droiddev5911">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png"
     title="Hashnode" alt="Hashnode blog" width="30" style="margin: 0 6px;" />
@@ -38,10 +34,6 @@
   <a href="https://github.com/animeshroydev">
     <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png"
     title="GitHub" alt="GitHub" width="30" style="margin: 0 6px;" />
-  </a>
-  <a href="https://www.kooapp.com/profile/animesh_roy">
-    <img src="https://miro.medium.com/max/4168/1*AAiw1Nnlpjt1iLvOm_RzXg.png"
-    title="Koo" alt="Koo" width="30" style="margin: 0 6px;" />
   </a>
 </div>
 
