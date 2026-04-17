@@ -62,7 +62,7 @@
   my articles.
 </h3>
 <h3>
-  ⚡ &ensp;Beside all the tech stuffs I love to travel 😍&nbsp;play ⚽ &nbsp;and
+  ⚡ &ensp;Beside all the tech stuffs I love to travel 😍&nbsp;play ⚽ &nbsp;Ride Motorcycle 🏍️ and
   workout 💪
 </h3>
 
