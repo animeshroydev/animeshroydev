@@ -28,8 +28,8 @@
     title="Showwcase" alt="Showwcase Account" width="30" style="margin: 0 6px;" />
   </a>
   <a href="https://medium.com/@droiddev5911">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png"
-    title="Hashnode" alt="Hashnode blog" width="30" style="margin: 0 6px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"
+    title="Medium" alt="Medium" width="30" style="margin: 0 6px;" />
   </a>
   <a href="https://github.com/animeshroydev">
     <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png"
