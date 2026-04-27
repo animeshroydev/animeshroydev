@@ -11,6 +11,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg"
     title="Twitch" alt="Twitch Account" width="60" style="margin: 0 6px;" />
   </a>
+  
   <a href="https://www.youtube.com/c/AndroidConcepts">
     <img src="https://i.imgur.com/e1x6oEs.png" title="YouTube" alt="YouTube Account"
     width="40" style="margin: 0 6px;" />
@@ -20,7 +21,7 @@
     alt="Linkedin Account" width="30" style="margin: 0 6px;" />
   </a>
   <a href="https://www.instagram.com/droid.coder/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"
+    <img src="https://www.visioled.net/en/wp-content/uploads/sites/2/2015/04/instagram-Logo-PNG-Transparent-Background-download.png"
     title="Instagram" alt="Instagram Account" width="30" style="margin: 0 6px;" />
   </a>
   <a href="https://www.showwcase.com/roy_animesh">
